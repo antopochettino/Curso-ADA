@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hola prueba uno dos tres
+=======
+Hola prueba uno dos
+>>>>>>> fc3ec19ea71c6def9a97375a144f8c7c16735e09
